@@ -1,4 +1,6 @@
-# IAMKUNAL
+# I AM KUNAL KURVE
+
+This is my Personal Portfolio
 
 <h1 align="center">Hi 👋, I'm Kunal Kurve. Welcome to my GitHub account</h1>
 
