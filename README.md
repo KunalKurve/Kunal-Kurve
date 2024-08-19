@@ -1,8 +1,8 @@
-# I AM KUNAL KURVE
+# I AM KUNAL KURVE, AI ENGINEER
 
 This is my Personal Portfolio
 
-<h1 align="center">Hi 👋, I'm Kunal Kurve. Welcome to my GitHub account</h1>
+<h1 align="center">Hi 👋 and Welcome to my GitHub account</h1>
 
 
 
