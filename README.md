@@ -10,7 +10,7 @@ https://kunalkurve.github.io/Kunal-Kurve/
   
       
 
-      📫 Contact me at masterkunal095@gmail.com
+      📫 Contact me at kunal.kurve219@gmail.com
 
       
 
